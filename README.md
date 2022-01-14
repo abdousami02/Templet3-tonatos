@@ -1,2 +1,2 @@
-# badnitech ----- Templet 3 -----
+# --- Templet 3 -----
 this is first upload in github
